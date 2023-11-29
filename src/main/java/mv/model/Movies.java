@@ -1,6 +1,5 @@
-package siit.model;
+package mv.model;
 
-import javax.persistence.Column;
 import java.util.List;
 
 public class Movies {

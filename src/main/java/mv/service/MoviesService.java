@@ -1,12 +1,11 @@
-package siit.service;
+package mv.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import siit.model.Genre;
-import siit.model.Movies;
-import siit.repository.MoviesRepository;
+import mv.model.Genre;
+import mv.model.Movies;
+import mv.repository.MoviesRepository;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @Service

@@ -1,12 +1,12 @@
-package siit.web;
+package mv.web;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.ModelAndView;
-import siit.model.Movies;
-import siit.service.MoviesService;
+import mv.model.Movies;
+import mv.service.MoviesService;
 
 import java.util.*;
 

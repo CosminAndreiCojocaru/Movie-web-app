@@ -1,4 +1,4 @@
-package siit.model;
+package mv.model;
 
 public class Genre {
 
